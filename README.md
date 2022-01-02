@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PSans
+- 👋 @PSans
 - 👀 I’m interested in ... Developing my coding skills, motorcycles, all things tech
 - 🌱 I’m currently learning ... HTML/CSS, Python...
 - 💞️ I’m looking to collaborate on ... ANYTHING to gain more knowledge 
